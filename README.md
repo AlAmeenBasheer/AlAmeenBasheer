@@ -1,4 +1,4 @@
-Hello, fellow users 😊, I'm Al Ameen Basheer MB. I've recently graduated with a BSc in Computer Science and am passionate about forging a path as a software developer. I have experience as a full-stack developer 🧑‍💻, diving into web development and DevOps, and I'm currently expanding my skills in Amazon Web Services and networking with applications.
+Hello, fellow users 😊, I'm Al Ameen Basheer MB. I've recently graduated with a B.Sc. in Computer Science and am passionate about forging a path as a software developer. I have experience as a full-stack developer 🧑‍💻, diving into web development and DevOps, and I'm currently expanding my skills in Amazon Web Services and networking with applications.
 
 When I'm not coding, you might find me playing cricket 🏏, keeping up with the latest news 📰, or indulging in my hobby of learning something new every day.
 
